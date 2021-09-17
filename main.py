@@ -5,9 +5,9 @@ driver1 = webdriver.Chrome(executable_path="chromedriver")
 driver2 = webdriver.Chrome(executable_path="chromedriver")
 driver3 = webdriver.Chrome(executable_path="chromedriver")
 
-driver1.get("https://youtu.be/OCqFM1B2vdk")
-driver2.get("https://youtu.be/OCqFM1B2vdk")
-driver3.get("https://youtu.be/OCqFM1B2vdk")
+driver1.get("https://youtu.be/eZHbx1c-tCI")
+driver2.get("https://youtu.be/eZHbx1c-tCI")
+driver3.get("https://youtu.be/eZHbx1c-tCI")
 
 while True:
     sleep(180)
